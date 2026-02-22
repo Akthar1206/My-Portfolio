@@ -12,9 +12,9 @@ const WorkExperience = [
   },
   {
     id: 2,
-    title: "Software Developer",
-    company: "Vallabha Systems",
-    yearsActive: "Jun 2024 - Oct 2024",
+    title: "C# Intern",
+    company: "Optimus Technocrates",
+    yearsActive: "May 2023 - Jun 2023",
     information: [
       "Developed a data management portal for UK universities to upload, validate and generate the student information as XML files using React.js, Material UI and a mock JSON-server API",
       "Contributed to improving system functionality and deployment efficiency, ensuring seamless integration and reliable performance",
@@ -24,12 +24,12 @@ const WorkExperience = [
   },
   {
     id: 3,
-    title: "Web Developer",
-    company: "Prodigy Infotech",
-    yearsActive: "Jan 2023 - Feb 2023",
+    title: "Java Develoer Intern",
+    company: "Codveda Technologies",
+    yearsActive: "Dec 2025 - Jan 2026",
     information: [
-      "Designed, developed, tested, and deployed web applications, ensuring functionality and user experience",
-      "Collaborated effectively in a team environment and independently solved complex technical challenges",
+      "Technologies, working on real-world software development projects using Java",
+      "Contributing to application development, testing, and problem-solving to maintain high performance and quality",
     ],
   },
   // {

@@ -6,7 +6,7 @@ const HeaderSocials = () => {
   return (
     <div className="home__socials">
       <a
-        href="https://github.com/noorulashfaq"
+        href="https://github.com/Akthar1206"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -15,7 +15,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/in/noorulashfaq/"
+        href="https://www.linkedin.com/in/noorul-akthar-a-471444249/"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -24,7 +24,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://leetcode.com/u/noorul_ashfaq/"
+        href="https://leetcode.com/u/akthar1206/"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -33,7 +33,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.codechef.com/users/noorul_ashfaq"
+        href="https://www.codechef.com/users/each_wombat_67"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
@@ -42,7 +42,7 @@ const HeaderSocials = () => {
       </a>
 
       <a
-        href="https://www.hackerrank.com/profile/noorulashfaq786"
+        href="https://www.hackerrank.com/profile/noorulakthar2005"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"

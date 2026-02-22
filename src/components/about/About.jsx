@@ -5,7 +5,7 @@ import AboutBox from "./AboutBox";
 
 const About = () => {
   const downloadResume = async () => {
-    window.open("https://drive.google.com/file/d/1xAQqrgUa3U_yWrFDI4jZUI8svsVaU-Nl/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1VOV769kq4Nr1sN7OHQx0wTdrg5SENbXK/view?usp=sharing", "_blank");
   };
 
   return (
@@ -18,9 +18,9 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Noorul Akthar A, a passionate Full Stack Developer skilled in
+              Hello! I'm Akthar, a passionate Full Stack Developer skilled in
               creating dynamic and scalable web applications. With expertise in{" "}
-              <strong>MERN Stack, Java, C#, and SQL</strong>. I thrive on
+              <strong>Java, C#, and SQL</strong>. I thrive on
               solving complex challenges and building intuitive, user-focused
               solutions.
               <br />
