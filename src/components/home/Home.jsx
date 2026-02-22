@@ -14,7 +14,7 @@ const Home = () => {
         <img src={Me} alt="" className="home__img" width="120" />
         
         <BlurText
-          text="Noorul Ashfaq A"
+          text="Noorul Akthar A"
           delay={150}
           animateBy="words"
           direction="top"
