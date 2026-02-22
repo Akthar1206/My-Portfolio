@@ -18,7 +18,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Noorul, a passionate Full Stack Developer skilled in
+              Hello! I'm Noorul Akthar A, a passionate Full Stack Developer skilled in
               creating dynamic and scalable web applications. With expertise in{" "}
               <strong>MERN Stack, Java, C#, and SQL</strong>. I thrive on
               solving complex challenges and building intuitive, user-focused
